@@ -770,9 +770,6 @@ http://am01.spr24.net/21204/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,BOX AutoTrend HD
 #EXTGRP:RU Познавательные
 http://am01.spr24.net/21205/mpegts?token=q2YSXUPNiz5Zqu
-#EXTINF:0,ClarityHD FishingTV
-#EXTGRP:RU Познавательные
-http://am01.spr24.net/21102/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Clarity4K Запал
 #EXTGRP:RU Познавательные
 http://am01.spr24.net/20939/mpegts?token=q2YSXUPNiz5Zqu
@@ -1469,6 +1466,9 @@ http://am01.spr24.net/20852/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,MiniMax OldSchool HD
 #EXTGRP:RU Кинозал
 http://am01.spr24.net/20784/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,MiniMax Кинофестиваль HD
+#EXTGRP:RU Кинозал
+http://am01.spr24.net/20789/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,MS PRISONS HD
 #EXTGRP:RU Кинозал
 http://am01.spr24.net/20777/mpegts?token=q2YSXUPNiz5Zqu
@@ -1649,6 +1649,15 @@ http://am01.spr24.net/21003/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Oasis Великобританские сериалы HD
 #EXTGRP:RU Кинозал
 http://am01.spr24.net/21004/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,Oasis Чечня и Афган HD
+#EXTGRP:RU Кинозал
+http://am01.spr24.net/21006/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,Oasis Доктор Кто HD
+#EXTGRP:RU Кинозал
+http://am01.spr24.net/21007/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,Oasis Саша Таня HD
+#EXTGRP:RU Кинозал
+http://am01.spr24.net/21008/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,VeleS 60FPS
 #EXTGRP:RU Кинозал
 http://am01.spr24.net/21011/mpegts?token=q2YSXUPNiz5Zqu
@@ -1775,6 +1784,12 @@ http://am01.spr24.net/8048/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,LIBERTY МЮЗИКЛ 4K
 #EXTGRP:RU Кинозал
 http://am01.spr24.net/8049/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,ТВОЕ ТВ HD
+#EXTGRP:RU Кинозал
+http://am01.spr24.net/8101/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,ТВОЕ ТВ ЮМОР HD
+#EXTGRP:RU Кинозал
+http://am01.spr24.net/8102/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Мульт HD
 #EXTGRP:RU Детские
 http://am01.spr24.net/141/mpegts?token=q2YSXUPNiz5Zqu
@@ -1964,6 +1979,9 @@ http://am01.spr24.net/20996/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Oasis Disney Мультсериалы HD
 #EXTGRP:RU Детские
 http://am01.spr24.net/21002/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,Oasis Черепашки Ниндзя HD
+#EXTGRP:RU Детские
+http://am01.spr24.net/21005/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,VeleS Kids
 #EXTGRP:RU Детские
 http://am01.spr24.net/21013/mpegts?token=q2YSXUPNiz5Zqu
@@ -2258,9 +2276,6 @@ http://am01.spr24.net/478/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Танцуй! HD
 #EXTGRP:RU Спорт
 http://am01.spr24.net/7336/mpegts?token=q2YSXUPNiz5Zqu
-#EXTINF:0,Окко Спорт HD
-#EXTGRP:RU Спорт
-http://am01.spr24.net/7337/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Eurosport 1 HD (CEE)
 #EXTGRP:RU Спорт
 http://am01.spr24.net/14335/mpegts?token=q2YSXUPNiz5Zqu
@@ -2309,12 +2324,18 @@ http://am01.spr24.net/21207/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,BOX Be ON Edge HD
 #EXTGRP:RU Спорт
 http://am01.spr24.net/20872/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,BOX SR Sport Live 4K HDR
+#EXTGRP:RU Спорт
+http://am01.spr24.net/21213/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,BOX SR Sport 2 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am01.spr24.net/21214/mpegts?token=q2YSXUPNiz5Zqu
+#EXTINF:0,BOX SR Sport 4K HDR
+#EXTGRP:RU Спорт
+http://am01.spr24.net/21215/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Clarity4K НФР Реслинг
 #EXTGRP:RU Спорт
 http://am01.spr24.net/20910/mpegts?token=q2YSXUPNiz5Zqu
-#EXTINF:0,ClarityHD American Football
-#EXTGRP:RU Спорт
-http://am01.spr24.net/21101/mpegts?token=q2YSXUPNiz5Zqu
 #EXTINF:0,Oasis Фитнес HD
 #EXTGRP:RU Спорт
 http://am01.spr24.net/20968/mpegts?token=q2YSXUPNiz5Zqu
